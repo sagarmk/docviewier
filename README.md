@@ -6,6 +6,10 @@ Join multiple PDF files into a single PDF.
 Convert a PDF file into a series of images, one image per page.
 ![Example image](/images/pdftool.png)
 
+<p align="center">
+  <img src="/images/pdftool.png" alt="alt text">
+</p>
+
 
 Code Overview
 The code begins with importing the necessary libraries and then defines the PDFTool class, which inherits from QMainWindow. The constructor of this class (__init__) sets up the user interface with buttons, labels, and spin boxes using a grid layout. Each button is connected to a specific functionality (splitting, joining, or converting PDFs).
