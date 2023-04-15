@@ -4,9 +4,9 @@ This is a simple desktop application for processing PDF files. It uses the PyQt5
 Split a PDF file into a new PDF containing only specified pages.
 Join multiple PDF files into a single PDF.
 Convert a PDF file into a series of images, one image per page.
-![Example image](/images/pdftool.png)
 
-<p align="center">
+
+<p align="left">
   <img src="/images/pdftool.png" alt="alt text">
 </p>
 
